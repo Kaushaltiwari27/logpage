@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+</head>
+<body class="web">
+    <div class="container1">
+        <div class="container2">
+            <div class="container3">
+                <div class="right">
+                <img src="https://ui-practise.vercel.app/static/images/landingView/logo.png">
+                <div class="sidecontent">Say hello to global food and beverage producers and suppliers,all in one place</div>
+                </div>
+                <div class="rightwrap">
+                    <div class="formtitle">
+                        Let's get started
+                        <br>
+                        with a few simple steps</div>
+                        <div class="formdata">
+                            <div class="inputdiv">
+                                <div class="inputWrap">
+                                    <div class="text-label">
+                                        Email
+                                    </div>
+                                    <input type="text" class="inputbox">
+                                </div>
+                                <div class="inputWrap">
+                                    <div class="text-label">
+                                        FullName
+                                    </div>
+                                    <input type="text" class="inputbox">
+                                </div>
+                                <div class="inputWrap">
+                                    <div class="text-label">
+                                        Password
+                                    </div>
+                                    <input type="text" class="inputbox">
+                                </div>
+                            </div>
+                            <div class="btnwrap">
+                                <div class="btntxt">
+                                    Sign up
+                                </div>
+                            </div>
+                            <div class="linkwrap">
+                                <div class="designtxt">
+                                By siging up, you agree to our
+                                    <span>Terms of Service</span>
+                                    .
+                                </div>
+                                <div class="testingdesign">
+                                 Already have an account?
+                                    <span>Log in</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
